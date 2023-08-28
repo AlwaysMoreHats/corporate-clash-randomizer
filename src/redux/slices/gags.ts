@@ -33,7 +33,7 @@ const initialGags: GagCounts = gagsjson.reduce((map, {track, name, level, max}) 
       name: name as GagName,
       max,
       count: 0,
-      icon: `/assets/gag_icons/${track}/${name.replace(/[ $]/g, '_')}.webp`,
+      icon: `/corporate-clash-randomizer/gag_icons/${track}/${name.replace(/[ $]/g, '_')}.webp`,
       unlocked: true
    }
   }), {} as Record<GagName, Gag>)
