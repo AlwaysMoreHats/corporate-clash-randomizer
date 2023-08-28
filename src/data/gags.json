@@ -1,0 +1,450 @@
+[
+  {
+    "track": "Toon-Up",
+    "name": "Feather",
+    "level": 1,
+    "max": 30,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Megaphone",
+    "level": 2,
+    "max": 25,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Lipstick",
+    "level": 3,
+    "max": 20,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Bamboo Cane",
+    "level": 4,
+    "max": 15,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Pixie Dust",
+    "level": 5,
+    "max": 7,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Juggling Cubes",
+    "level": 6,
+    "max": 3,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "Confetti Cannon",
+    "level": 7,
+    "max": 2,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Toon-Up",
+    "name": "High Dive",
+    "level": 8,
+    "max": 1,
+    "color": "#9F59DC"
+  },
+  {
+    "track": "Trap",
+    "name": "Banana Peel",
+    "level": 1,
+    "max": 30,
+    "color": "#DF4440"
+  },
+  {
+    "track": "Trap",
+    "name": "Rake",
+    "level": 2,
+    "max": 25,
+    "color": "#DF4441"
+  },
+  {
+    "track": "Trap",
+    "name": "Springboard",
+    "level": 3,
+    "max": 20,
+    "color": "#DF4442"
+  },
+  {
+    "track": "Trap",
+    "name": "Marbles",
+    "level": 4,
+    "max": 15,
+    "color": "#DF4443"
+  },
+  {
+    "track": "Trap",
+    "name": "Quicksand",
+    "level": 5,
+    "max": 7,
+    "color": "#DF4444"
+  },
+  {
+    "track": "Trap",
+    "name": "Trapdoor",
+    "level": 6,
+    "max": 3,
+    "color": "#DF4445"
+  },
+  {
+    "track": "Trap",
+    "name": "Wrecking Ball",
+    "level": 7,
+    "max": 2,
+    "color": "#DF4446"
+  },
+  {
+    "track": "Trap",
+    "name": "TNT",
+    "level": 8,
+    "max": 1,
+    "color": "#DF4447"
+  },
+  {
+    "track": "Lure",
+    "name": "$1 Bill",
+    "level": 1,
+    "max": 30,
+    "color": "#3E8844"
+  },
+  {
+    "track": "Lure",
+    "name": "Small Magnet",
+    "level": 2,
+    "max": 25,
+    "color": "#3E8845"
+  },
+  {
+    "track": "Lure",
+    "name": "$5 Bill",
+    "level": 3,
+    "max": 20,
+    "color": "#3E8846"
+  },
+  {
+    "track": "Lure",
+    "name": "Big Magnet",
+    "level": 4,
+    "max": 15,
+    "color": "#3E8847"
+  },
+  {
+    "track": "Lure",
+    "name": "$10 Bill",
+    "level": 5,
+    "max": 7,
+    "color": "#3E8848"
+  },
+  {
+    "track": "Lure",
+    "name": "Hypno-goggles",
+    "level": 6,
+    "max": 3,
+    "color": "#3E8849"
+  },
+  {
+    "track": "Lure",
+    "name": "$50 Bill",
+    "level": 7,
+    "max": 2,
+    "color": "#3E8850"
+  },
+  {
+    "track": "Lure",
+    "name": "Presentation",
+    "level": 8,
+    "max": 1,
+    "color": "#3E8851"
+  },
+  {
+    "track": "Throw",
+    "name": "Cupcake",
+    "level": 1,
+    "max": 30,
+    "color": "#D57340"
+  },
+  {
+    "track": "Throw",
+    "name": "Fruit Pie Slice",
+    "level": 2,
+    "max": 25,
+    "color": "#D57341"
+  },
+  {
+    "track": "Throw",
+    "name": "Cream Pie Slice",
+    "level": 3,
+    "max": 20,
+    "color": "#D57342"
+  },
+  {
+    "track": "Throw",
+    "name": "Birthday Cake Slice",
+    "level": 4,
+    "max": 15,
+    "color": "#D57343"
+  },
+  {
+    "track": "Throw",
+    "name": "Whole Fruit Pie",
+    "level": 5,
+    "max": 7,
+    "color": "#D57344"
+  },
+  {
+    "track": "Throw",
+    "name": "Whole Cream Pie",
+    "level": 6,
+    "max": 3,
+    "color": "#D57345"
+  },
+  {
+    "track": "Throw",
+    "name": "Birthday Cake",
+    "level": 7,
+    "max": 2,
+    "color": "#D57346"
+  },
+  {
+    "track": "Throw",
+    "name": "Wedding Cake",
+    "level": 8,
+    "max": 1,
+    "color": "#D57347"
+  },
+  {
+    "track": "Squirt",
+    "name": "Squirting Flower",
+    "level": 1,
+    "max": 30,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Glass of Water",
+    "level": 2,
+    "max": 25,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Squirt Gun",
+    "level": 3,
+    "max": 20,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Water Balloon",
+    "level": 4,
+    "max": 15,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Seltzer Bottle",
+    "level": 5,
+    "max": 7,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Fire Hose",
+    "level": 6,
+    "max": 3,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Storm Cloud",
+    "level": 7,
+    "max": 2,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Squirt",
+    "name": "Geyser",
+    "level": 8,
+    "max": 1,
+    "color": "#D937BC"
+  },
+  {
+    "track": "Zap",
+    "name": "Joybuzzer",
+    "level": 1,
+    "max": 30,
+    "color": "#BF9C52"
+  },
+  {
+    "track": "Zap",
+    "name": "Lightbulb",
+    "level": 2,
+    "max": 25,
+    "color": "#BF9C53"
+  },
+  {
+    "track": "Zap",
+    "name": "Broken Radio",
+    "level": 3,
+    "max": 20,
+    "color": "#BF9C54"
+  },
+  {
+    "track": "Zap",
+    "name": "Kart Battery",
+    "level": 4,
+    "max": 15,
+    "color": "#BF9C55"
+  },
+  {
+    "track": "Zap",
+    "name": "Broken TV",
+    "level": 5,
+    "max": 7,
+    "color": "#BF9C56"
+  },
+  {
+    "track": "Zap",
+    "name": "Stagelight",
+    "level": 6,
+    "max": 3,
+    "color": "#BF9C57"
+  },
+  {
+    "track": "Zap",
+    "name": "Tesla Coil",
+    "level": 7,
+    "max": 2,
+    "color": "#BF9C58"
+  },
+  {
+    "track": "Zap",
+    "name": "Lightning",
+    "level": 8,
+    "max": 1,
+    "color": "#BF9C59"
+  },
+  {
+    "track": "Sound",
+    "name": "Kazoo",
+    "level": 1,
+    "max": 30,
+    "color": "#514ED4"
+  },
+  {
+    "track": "Sound",
+    "name": "Bike Horn",
+    "level": 2,
+    "max": 25,
+    "color": "#514ED5"
+  },
+  {
+    "track": "Sound",
+    "name": "Whistle",
+    "level": 3,
+    "max": 20,
+    "color": "#514ED6"
+  },
+  {
+    "track": "Sound",
+    "name": "Bugle",
+    "level": 4,
+    "max": 15,
+    "color": "#514ED7"
+  },
+  {
+    "track": "Sound",
+    "name": "Aoogah",
+    "level": 5,
+    "max": 7,
+    "color": "#514ED8"
+  },
+  {
+    "track": "Sound",
+    "name": "Elephant Trunk",
+    "level": 6,
+    "max": 3,
+    "color": "#514ED9"
+  },
+  {
+    "track": "Sound",
+    "name": "Foghorn",
+    "level": 7,
+    "max": 2,
+    "color": "#514ED10"
+  },
+  {
+    "track": "Sound",
+    "name": "Opera Singer",
+    "level": 8,
+    "max": 1,
+    "color": "#514ED11"
+  },
+  {
+    "track": "Drop",
+    "name": "Flower Pot",
+    "level": 1,
+    "max": 30,
+    "color": "#3EA4A9"
+  },
+  {
+    "track": "Drop",
+    "name": "Sandbag",
+    "level": 2,
+    "max": 25,
+    "color": "#3EA4A10"
+  },
+  {
+    "track": "Drop",
+    "name": "Bowling Ball",
+    "level": 3,
+    "max": 20,
+    "color": "#3EA4A11"
+  },
+  {
+    "track": "Drop",
+    "name": "Anvil",
+    "level": 4,
+    "max": 15,
+    "color": "#3EA4A12"
+  },
+  {
+    "track": "Drop",
+    "name": "Big Weight",
+    "level": 5,
+    "max": 7,
+    "color": "#3EA4A13"
+  },
+  {
+    "track": "Drop",
+    "name": "Safe",
+    "level": 6,
+    "max": 3,
+    "color": "#3EA4A14"
+  },
+  {
+    "track": "Drop",
+    "name": "Boulder",
+    "level": 7,
+    "max": 2,
+    "color": "#3EA4A15"
+  },
+  {
+    "track": "Drop",
+    "name": "Grand Piano",
+    "level": 8,
+    "max": 1,
+    "color": "#3EA4A16"
+  }
+ ]
